@@ -1,0 +1,87 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+   
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 24px;
+}
+h5{
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    
+}
+header{
+    max-width: 100%;
+    height: 500px;
+    background-color: yellow;
+    background-size: cover;
+    
+    background-image: url('https://damconf.com/app/uploads/2017/09/hero-bg.jpg');
+    text-align: center;
+}
+
+header img{
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 20px; 
+}
+.wrap{
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.col1{
+    width: 50%;
+    float: left;
+}
+.col1 h4{
+     text-align: center;
+}
+.speaker-img{
+    float: left;
+}
+.speaker-img img{
+    width: 150px;
+}
+.speaker-text{
+    width: 50%;
+    margin: 0 auto;
+}
+.col2{
+    width: 50%;
+    float: left;
+}
+.col2 h4{
+     text-align: center;
+}
+.a{
+    margin-bottom: 90px;
+}
+   
+
+
+
+
+
+
+
+.ticket h2{
+    text-align: center;
+}
+
